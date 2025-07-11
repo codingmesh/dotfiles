@@ -43,6 +43,7 @@ return {
                         pyflakes = { enabled = false },
                         pylint = { enabled = false },
                         pycodestyle = { enabled = false },
+                        mccabe = { enabled = false },
                     },
                 },
             },
